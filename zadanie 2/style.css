@@ -1,0 +1,10 @@
+.no-bullets {
+    list-style: none;
+    padding-left: 1px;
+    padding-bottom: 1px;
+}
+li {
+    background-color: lightgrey;
+    margin-bottom: 10px;
+    padding: 10px;
+}
